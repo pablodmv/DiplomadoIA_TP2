@@ -1,0 +1,11 @@
+# Librerías utilizadas en el TP2 - Predicción de fumadores
+# Instalar desde la raíz del proyecto: python -m pip install -r requirements.txt
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn>=1.2
+xgboost
+joblib
+jupyterlab
+ipykernel
